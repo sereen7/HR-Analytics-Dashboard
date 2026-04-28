@@ -6,7 +6,7 @@ A dynamic Power BI Dashboard designed to analyze Human Resources data and provid
 ---
 ## Dashboard Preview
 
-![Dashboard](images/screenshot.png)
+![Dashboard](images/Screenshot.png)
 
 ## Key Objectives
 
